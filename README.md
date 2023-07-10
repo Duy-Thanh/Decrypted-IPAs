@@ -1,6 +1,6 @@
 # Decrypted-IPAs
 
-- Sometimes, I decrypt apps for research purposes. There is no reason to delete them, so I put them here. I DO NOT decrypt paid apps, so don't ask. 
+- Sometimes, I decrypt apps for research purposes. There is no reason to delete them, so I put them here. **I DO NOT decrypt paid apps, so don't ask. **
 
 - App Thinning is disabled.
 
